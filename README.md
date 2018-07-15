@@ -1,2 +1,3 @@
-# MinFlickableInPathViewExample
-Minimal QML example of using Flickable inside a PathView
+# MinFlickPathViewExample
+
+Minimal example for a Flickable in a PathView

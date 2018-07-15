@@ -1,0 +1,15 @@
+{
+    "name": "mfpve.hummlbach",
+    "description": "Minimal example for a Flickable in a PathView",
+    "architecture": "@CLICK_ARCH@",
+    "title": "MinFlickPathViewExample",
+    "hooks": {
+        "MFPVE": {
+            "apparmor": "MFPVE.apparmor",
+            "desktop":  "MFPVE.desktop"
+        }
+    },
+    "version": "1.0.0",
+    "maintainer": "Johannes Renkl <hummlbach@web.de>",
+    "framework" : "ubuntu-sdk-15.04.5"
+}
